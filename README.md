@@ -1,7 +1,6 @@
 
 # Yo-kai Watch Puni Puni English Translation
 ## A revival translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
-### Note! We only make the actual translation, not the crack that applies the mod.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
 ## Join the Discord for more [updates](

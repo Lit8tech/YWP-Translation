@@ -3,7 +3,7 @@
 ## A revival translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
-## Join the Discord for more [updates](
+## Join the Discord for more updates [updates](https://discord.gg/feu9AGfDXu)
 
 ## How do I Install The translation?
 

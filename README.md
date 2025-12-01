@@ -8,9 +8,10 @@
 ## How do I Install The translation?
 
 ### For iOS
-# Download Instructions
+### Download Instructions
 ### Note: all methods for applying the mod are iOS only and there are no current plans for Android methods.
-### Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video.](https://www.youtube.com/watch?v=7ubJk8XewFw)
+### Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video.](https://www.youtube.com/watch?v=7ubJk8XewFw).
+### Note: the current method only supports iOS 17.0 and below, if you are looking for a method that supports universally all versions, please be patient and join [the yOS Discord Server](https://discord.gg/2GdhdduCzT) for updates on the PuniCracker method and PureyOSPatch.
 
 Sideload PureKFD, which can be found [here.](https://github.com/Lrdsnow/PureKFD/releases)
 

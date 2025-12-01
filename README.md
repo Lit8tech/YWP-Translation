@@ -3,19 +3,18 @@
 ## A revival translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk.](https://github.com/Lit8tech/YWP-Translation/blob/main/SIteImage.png?raw=true)
 
-## Join the Discord for more updates [updates.](https://discord.gg/feu9AGfDXu)
+## Join the Discord for more updates [updates!](https://discord.gg/feu9AGfDXu)
 
 ## How do I Install The translation?
 
-### For iOS
-### Download Instructions
+## For iOS
 ### Note: all methods for applying the mod are iOS only and there are no current plans for Android methods.
 ### Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video.](https://www.youtube.com/watch?v=7ubJk8XewFw).
 ### Note: the current method only supports iOS 17.0 and below, if you are looking for a method that supports universally all versions, please be patient and join [the yOS Discord Server](https://discord.gg/2GdhdduCzT) for updates on the PuniCracker method and PureyOSPatch.
 
 Sideload PureKFD, which can be found [here.](https://github.com/Lrdsnow/PureKFD/releases)
 
-Inside PureKFD, go into the settings and change the exploit to whatever one suits your device (Direct Write for Jailbroken and Trollstore, MDC for 15.0 to 16.1 one, KFD for 16.1 to 16.6 beta 1.
+Inside PureKFD, go into the settings and change the exploit to whatever one suits your device (Direct Write for Jailbroken and Trollstore, MDC for 15.0 to 16.1 one, KFD for 16.1 to 16.6 beta 1).
 
 Open PureKFD, then go into the browse tab, then click on the plus in the top right corner.
 
@@ -29,7 +28,7 @@ Once installing is done for all of them, click apply, as mentioned earlier, make
 
 Once it says tweaks have been successfully applied you can press reboot and everything will be done! Puni will be translated.
 
-### For Android
+## For Android
 Currently there is no application method for Android, but a cool team is working on creating a custom Puni server reimplementation on Android, with plans of eventually reviving Wibble Wobble on device, so if you interested please join their [Discord server.](https://discord.gg/r4B4WVyBJU)
 
 # Made With 💙 by:

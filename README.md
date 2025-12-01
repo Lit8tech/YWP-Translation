@@ -1,15 +1,15 @@
 
 # Yo-kai Watch Puni Puni Translation Project:
 ## A revival translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
-![Amazing logo made by Math_kk.](https://i.imgur.com/39kA5rB.png)
+![Amazing logo made by Math_kk.](https://github.com/Lit8tech/YWP-Translation/blob/main/SIteImage.png?raw=true)
 
 ## Join the Discord for more updates [updates.](https://discord.gg/feu9AGfDXu)
 
 ## How do I Install The translation?
 
 ### For iOS
-# ** Download Instructions
-### Note: all methods for applying the mod are iOS only and there are no current plans for Android methods. **
+# Download Instructions
+### Note: all methods for applying the mod are iOS only and there are no current plans for Android methods.
 ### Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video.](https://www.youtube.com/watch?v=7ubJk8XewFw)
 
 Sideload PureKFD, which can be found [here.](https://github.com/Lrdsnow/PureKFD/releases)
